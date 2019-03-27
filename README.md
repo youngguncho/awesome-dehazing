@@ -52,6 +52,5 @@ This repository is the collection of dehazing methods. Among various dehazing al
     - He, Kaiming, Jian Sun, and Xiaoou Tang. "Single image haze removal using dark channel prior." IEEE transactions on pattern analysis and machine intelligence 33.12 (2011): 2341-2353.
 - Fast Visibility Restoration [[Code](http://www.sciweavers.org/sourcecode/matlab-source-code-visibility-restoration-single-image), [Paper](http://ieeexplore.ieee.org/abstract/document/5459251/)]
     - Tarel, Jean-Philippe, and Nicolas Hautiere. "Fast visibility restoration from a single color or gray level image." Computer Vision, 2009 IEEE 12th International Conference on. IEEE, 2009.
-- Single Image Dehazing [[Code](http://www.cs.huji.ac.il/~raananf/projects/defog/), [Paper](
-- )]
+- Single Image Dehazing [[Code](http://www.cs.huji.ac.il/~raananf/projects/defog/), [Paper](http://www.cs.huji.ac.il/~raananf/projects/defog/)]
     - Fattal, Raanan. "Single image dehazing." ACM transactions on graphics (TOG) 27.3 (2008): 72.
