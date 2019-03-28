@@ -2,14 +2,13 @@
 This repository is the collection of dehazing methods. Among various dehazing algorithms, we've selected the datasets provide pose and map information. This repository includes the list of dehazing (includes enhancement and restoration) papers, codes and datasets.
 
 ## Category
-- Dehazing methods
-    - Single Image
-    - Learning-based
-    - Known Depth
-- Environments
-    - General
-    - Underwater
+- [Dehazing methods](#dehazing-methods)
+    - [Single image dehazing](#single-image-dehazing)
+    - [Dehazing using multi-images](#dehazing-using-multi-images)
+- [Specific topics](#specific-topics)
+    - [Underwater](#underwater)
     - Night-time
+    - Semantic
 - Dehazing datasets
     - Collection image of dehazing papers
     - Open datasets
@@ -52,6 +51,30 @@ This repository is the collection of dehazing methods. Among various dehazing al
     - He, Kaiming, Jian Sun, and Xiaoou Tang. "Single image haze removal using dark channel prior." IEEE transactions on pattern analysis and machine intelligence 33.12 (2011): 2341-2353.
 - Fast Visibility Restoration [[Code](http://www.sciweavers.org/sourcecode/matlab-source-code-visibility-restoration-single-image), [Paper](http://ieeexplore.ieee.org/abstract/document/5459251/)]
     - Tarel, Jean-Philippe, and Nicolas Hautiere. "Fast visibility restoration from a single color or gray level image." Computer Vision, 2009 IEEE 12th International Conference on. IEEE, 2009.
-- Single Image Dehazing [[Code](http://www.cs.huji.ac.il/~raananf/projects/defog/), [Paper](
-- )]
+- Single Image Dehazing [[Code](http://www.cs.huji.ac.il/~raananf/projects/defog/), [Paper]((http://www.cs.huji.ac.il/~raananf/projects/defog/))]
     - Fattal, Raanan. "Single image dehazing." ACM transactions on graphics (TOG) 27.3 (2008): 72.
+
+### Dehazing using multi-images
+- Simultaneous Defogging and Stereo Reconstruction [[Code](http://www.lizhuwen.com/pages/Stereo%20in%20Fog.html), [Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Li_Simultaneous_Video_Defogging_2015_CVPR_paper.pdf)]
+    - Li, Zhuwen, et al. "Simultaneous video defogging and stereo reconstruction." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015.
+- Stereo Reconstruction and Contrast Restoration [[Paper](https://link.springer.com/chapter/10.1007/978-3-642-37447-0_2)]
+    - Caraffa, Laurent, and Jean-Philippe Tarel. "Stereo reconstruction and contrast restoration in daytime fog." Asian Conference on Computer Vision. Springer Berlin Heidelberg, 2012.
+
+## Specific Topic
+### Underwater
+- UGAN [[Paper](https://www-users.cs.umn.edu/~islam034/papers/icra18_image.pdf)]
+    - Fabbri, Cameron, Md Jahidul Islam, and Junaed Sattar. "Enhancing underwater imagery using generative adversarial networks." 2018 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2018.
+- Underwater Haze-Line [[Code](http://csms.haifa.ac.il/profiles/tTreibitz/datasets/ambient_forwardlooking/index.html), [Paper](http://csms.haifa.ac.il/profiles/tTreibitz/datasets/ambient_forwardlooking/index.html)]
+    - Berman, Dana, et al. "Underwater Single Image Color Restoration Using Haze-Lines and a New Quantitative Dataset." arXiv preprint arXiv:1811.01343 (2018).
+- Underwater Visiblity Enhancement [[Code](https://github.com/irapkaist/visibility_enhancement), [Paper](http://irap.kaist.ac.kr/publications/ycho-2017-icra.pdf)]
+    - Cho, Younggun, and Ayoung Kim. "Visibility enhancement for underwater visual SLAM based on underwater light scattering model." Robotics and Automation (ICRA), 2017 IEEE International Conference on. IEEE, 2017.
+- WaterGAN [[Code](https://github.com/ljlijie/WaterGAN-color-correction-net), [Paper](https://arxiv.org/abs/1702.07392)]
+    - Li, Jie, et al. "WaterGAN: unsupervised generative network to enable real-time color correction of monocular underwater images." IEEE Robotics and Automation Letters 3.1 (2018): 387-394.
+- Multi-scale Fusion [[Code (Third person)](https://kr.mathworks.com/matlabcentral/fileexchange/47147-image-dehazing-zip), [Paper](http://ieeexplore.ieee.org/abstract/document/6514885/)]
+    - Ancuti, Codruta Orniana, and Cosmin Ancuti. "Single image dehazing by multi-scale fusion." IEEE Transactions on Image Processing 22.8 (2013): 3271-3282.
+
+### Nighttime (Coming soon)
+
+### Semantic (Coming soon)
+
+## Datasets
