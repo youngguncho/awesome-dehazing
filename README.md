@@ -1,4 +1,4 @@
-# Awesome Dehazing
+# Awesome Dehazing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 This repository is the collection of dehazing methods. Among various dehazing algorithms, we've selected the datasets provide pose and map information. This repository includes the list of dehazing (includes enhancement and restoration) papers, codes and datasets.
 
 ## Category
