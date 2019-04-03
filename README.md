@@ -9,9 +9,9 @@ This repository is the collection of dehazing methods. Among various dehazing al
     - [Underwater](#underwater)
     - Night-time
     - Semantic
-- Dehazing datasets
+- [Dehazing datasets](#datasets)
     - Collection image of dehazing papers
-    - Open datasets
+    - [Open datasets](#open-datasets)
 
 
 ## Dehazing methods
@@ -21,6 +21,7 @@ This repository is the collection of dehazing methods. Among various dehazing al
     - Zhang, He, and Vishal M. Patel. "Densely connected pyramid dehazing network." The IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2018.
 - Multi-band Enhancement [[Code](https://github.com/irapkaist/multi-band-enhancement), [Paper](http://irap.kaist.ac.kr/index.php/Main/Publication?action=bibentry&bibfile=ref.bib&bibref=ycho-2018-ral)]
     - Cho, Younggun, Jinyong Jeong, and Ayoung Kim. "Model Assisted Multi-band Fusion for Single Image Enhancement and Applications to Robot Vision." IEEE Robotics and Automation Letters (2018).
+  - Baseline for single image dehazing [[Code](https://github.com/nightldj/dehaze_release), [Paper](http://bmvc2018.org/contents/papers/0821.pdf)]
 - Dehaze cGAN [[Code](https://github.com/hong-ye/dehaze-cGAN), [Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Single_Image_Dehazing_CVPR_2018_paper.pdf)]
     - Li, Runde, et al. "Single Image Dehazing via Conditional Generative Adversarial Network." methods 3 (2018): 24.
 - GFN Dehazing [[Code](https://github.com/rwenqi/GFN-dehazing), [Paper](https://arxiv.org/abs/1804.00213)]
@@ -76,5 +77,41 @@ This repository is the collection of dehazing methods. Among various dehazing al
 ### Nighttime (Coming soon)
 
 ### Semantic (Coming soon)
+- Semantic Single-Image Dehazing [[Paper](https://arxiv.org/abs/1804.05624)]
+  - Cheng, Ziang, et al. "Semantic single-image dehazing." arXiv preprint arXiv:1804.05624 (2018).
+- Semantic Video Dehazing [[Paper](http://lps3.ieeexplore.ieee.org.libra.kaist.ac.kr/stamp/stamp.jsp?tp=&arnumber=8492451)]
+  - Ren, Wenqi, et al. "Deep video dehazing with semantic segmentation." IEEE Transactions on Image Processing 28.4 (2019): 1895-1908.
+
+### Survey
+- Benchmarking Single-Image Dehazing and Beyond [[Paper](https://ieeexplore.ieee.org/abstract/document/8451944)]
+  - Li, Boyi, et al. "Benchmarking single-image dehazing and beyond." IEEE Transactions on Image Processing 28.1 (2019): 492-505.
+- Haze Visibility Enhancement [[Paper](https://arxiv.org/pdf/1607.06235.pdf)]
+  - Li, Yu, et al. "Haze visibility enhancement: A survey and quantitative benchmarking." Computer Vision and Image Understanding 165 (2017): 1-16.
+-
+
+
 
 ## Datasets
+### Collection of images (Coming soon)
+- Collection of single image dehazing (Fattal, Berman, et al.) [[LINK]()]
+
+### Open datasets
+#### I-Haze / O-haze / D-Haze datasets
+- I-Haze [[LINK](http://www.vision.ee.ethz.ch/ntire18/i-haze/)]
+  - Ancuti, Cosmin, et al. "I-HAZE: a dehazing benchmark with real hazy and haze-free indoor images." International Conference on Advanced Concepts for Intelligent Vision Systems. Springer, Cham, 2018.
+- O-Haze [[LINK](http://www.vision.ee.ethz.ch/ntire18/i-haze/))]
+  - Ancuti, Codruta O., et al. "O-HAZE: a dehazing benchmark with real hazy and haze-free outdoor images." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops. 2018.
+- D-Haze (Link closed) [[LINK](http://www.meo.etc.upt.ro/AncutiProjectPages/D_Hazzy_ICIP2016/)]
+  - Ancuti, Cosmin, Codruta O. Ancuti, and Christophe De Vleeschouwer. "D-HAZY: A dataset to evaluate quantitatively dehazing algorithms." 2016 IEEE International Conference on Image Processing (ICIP). IEEE, 2016.
+
+#### Haze with Depth (+ Semantic)
+- HazeRD (Depth) [[LINK](https://labsites.rochester.edu/gsharma/research/computer-vision/hazerd/)]
+  - Zhang, Yanfu, Li Ding, and Gaurav Sharma. "Hazerd: an outdoor scene dataset and benchmark for single image dehazing." 2017 IEEE International Conference on Image Processing (ICIP). IEEE, 2017.
+- Virtual Kitti Dataset (Depth + Semantic) [[LINK](http://www.europe.naverlabs.com/Research/Computer-Vision/Proxy-Virtual-Worlds)]
+  - Gaidon, Adrien, et al. "Virtual worlds as proxy for multi-object tracking analysis." Proceedings of the IEEE conference on computer vision and pattern recognition. 2016.
+- Semantic Dense Foggy Scene Understanding (Depth + Semantic) [[LINK](https://www.vision.ee.ethz.ch/~csakarid/Model_adaptation_SFSU_dense/)]
+  - Christos Sakaridis, Dengxin Dai, Simon Hecker, and Luc Van Gool Model Adaptation with Synthetic and Real Data for Semantic Dense Foggy Scene Understanding European Conference on Computer Vision (ECCV), 2018
+
+#### Underwater image datasets
+- Turbid dataset [[LINK](http://amandaduarte.com.br/turbid/)]
+  - Duarte, Amanda, et al. "A dataset to evaluate underwater image restoration methods." OCEANS 2016-Shanghai. IEEE, 2016.
