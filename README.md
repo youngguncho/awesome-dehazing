@@ -87,8 +87,6 @@ This repository is the collection of dehazing methods. Among various dehazing al
   - Li, Boyi, et al. "Benchmarking single-image dehazing and beyond." IEEE Transactions on Image Processing 28.1 (2019): 492-505.
 - Haze Visibility Enhancement [[Paper](https://arxiv.org/pdf/1607.06235.pdf)]
   - Li, Yu, et al. "Haze visibility enhancement: A survey and quantitative benchmarking." Computer Vision and Image Understanding 165 (2017): 1-16.
--
-
 
 
 ## Datasets
@@ -96,6 +94,12 @@ This repository is the collection of dehazing methods. Among various dehazing al
 - Collection of single image dehazing (Fattal, Berman, et al.) [[LINK]()]
 
 ### Open datasets
+#### Single image dehazing with references
+- A database with reference for image dehazing evaluation [[LINK](http://chic.u-bourgogne.fr/)], [[Paper](http://jbthomas.org/Journals/2018aJIST.pdf)]
+- A Benchmark for single image dehazing [[LINK](https://sites.google.com/view/reside-dehaze-datasets)]
+- FRIDA (Foggy Road Image DAtabase) image database [[LINK](http://perso.lcpc.fr/tarel.jean-philippe/bdd/frida.html)]
+
+
 #### I-Haze / O-haze / D-Haze datasets
 - I-Haze [[LINK](http://www.vision.ee.ethz.ch/ntire18/i-haze/)]
   - Ancuti, Cosmin, et al. "I-HAZE: a dehazing benchmark with real hazy and haze-free indoor images." International Conference on Advanced Concepts for Intelligent Vision Systems. Springer, Cham, 2018.
