@@ -107,6 +107,7 @@ This repository is the collection of dehazing methods. Among various dehazing al
   - Ancuti, Codruta O., et al. "O-HAZE: a dehazing benchmark with real hazy and haze-free outdoor images." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops. 2018.
 - D-Haze (Link closed) [[LINK](http://www.meo.etc.upt.ro/AncutiProjectPages/D_Hazzy_ICIP2016/)]
   - Ancuti, Cosmin, Codruta O. Ancuti, and Christophe De Vleeschouwer. "D-HAZY: A dataset to evaluate quantitatively dehazing algorithms." 2016 IEEE International Conference on Image Processing (ICIP). IEEE, 2016.
+- DenseHaze [[LINK](http://www.vision.ee.ethz.ch/ntire19/dense-haze/)]
 
 #### Haze with Depth (+ Semantic)
 - HazeRD (Depth) [[LINK](https://labsites.rochester.edu/gsharma/research/computer-vision/hazerd/)]
