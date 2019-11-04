@@ -124,12 +124,10 @@ This repository is the collection of dehazing methods. Among various dehazing al
   - Li, Chongyi, et al. "An underwater image enhancement benchmark dataset and beyond." arXiv preprint arXiv:1901.05495 (2019).
 - Underwater Haze-Lines Dataset [[LINK](http://csms.haifa.ac.il/profiles/tTreibitz/datasets/ambient_forwardlooking/index.html)]
   - Berman, Dana, et al. "Underwater single image color restoration using haze-lines and a new quantitative dataset." arXiv preprint arXiv:1811.01343 (2018).
-- Underwater Haze-Lines Dataset [[LINK](http://csms.haifa.ac.il/profiles/tTreibitz/datasets/ambient_forwardlooking/index.html)]
-  - Berman, Dana, et al. "Underwater single image color restoration using haze-lines and a new quantitative dataset." arXiv preprint arXiv:1811.01343 (2018).
-- MARIS Vision Dataset [[LINK](http://rimlab.ce.unipr.it/Maris.html)]
-  - D. Lodi Rizzini, F. Kallasi, J. Aleotti, F. Oleari and S. Caselli. Integration of a stereo vision system into an autonomous underwater vehicle for pipe manipulation tasks. Computers & Electrical Engineering, Volume 58, February 2017, Pages 560-571, ISSN 0045-7906, DOI 10.1016/j.compeleceng.2016.08.023
 - MARIS Vision Dataset [[LINK](http://rimlab.ce.unipr.it/Maris.html)]
   - D. Lodi Rizzini, F. Kallasi, J. Aleotti, F. Oleari and S. Caselli. Integration of a stereo vision system into an autonomous underwater vehicle for pipe manipulation tasks. Computers & Electrical Engineering, Volume 58, February 2017, Pages 560-571, ISSN 0045-7906, DOI 10.1016/j.compeleceng.2016.08.023  
-  
-  
+- WaterGAN Datasets [[LINK](https://github.com/kskin/WaterGAN)]
+  - Li, Jie, et al. "WaterGAN: Unsupervised generative network to enable real-time color correction of monocular underwater images." IEEE Robotics and Automation letters 3.1 (2017): 387-394.
+- UGAN Datasets [[LINK](http://irvlab.cs.umn.edu/enhancing-underwater-imagery-using-generative-adversarial-networks)]
+  - Fabbri, Cameron, Md Jahidul Islam, and Junaed Sattar. "Enhancing underwater imagery using generative adversarial networks." 2018 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2018.
   
