@@ -8,7 +8,7 @@ This repository is the collection of dehazing methods. Among various dehazing al
 - [Specific topics](#specific-topics)
     - [Underwater](#underwater)
     - Night-time
-    - Semantic
+    - [Semantic](#semantic)
 - [Dehazing datasets](#datasets)
     - Collection image of dehazing papers
     - [Open datasets](#open-datasets)
@@ -76,7 +76,7 @@ This repository is the collection of dehazing methods. Among various dehazing al
 
 ### Nighttime (Coming soon)
 
-### Semantic (Coming soon)
+### Semantic
 - Semantic Single-Image Dehazing [[Paper](https://arxiv.org/abs/1804.05624)]
   - Cheng, Ziang, et al. "Semantic single-image dehazing." arXiv preprint arXiv:1804.05624 (2018).
 - Semantic Video Dehazing [[Paper](http://lps3.ieeexplore.ieee.org.libra.kaist.ac.kr/stamp/stamp.jsp?tp=&arnumber=8492451)]
