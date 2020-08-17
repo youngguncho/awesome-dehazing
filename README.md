@@ -17,6 +17,8 @@ This repository is the collection of dehazing methods. Among various dehazing al
 ## Dehazing methods
 
 ### Single image dehazing
+- Color Cast Dependent Image Dehazing [[Code](https://github.com/m14roy/CC_AA_NCB_Img_Dehaze/tree/master/), [Paper](https://ieeexplore.ieee.org/document/9134933)]
+    - S. K. Dhara, M. Roy, D. Sen and P. K. Biswas, "Color Cast Dependent Image Dehazing via Adaptive Airlight Refinement and Non-linear Color Balancing," in IEEE Transactions on Circuits and Systems for Video Technology, doi: 10.1109/TCSVT.2020.3007850
 - Densely Connected Pyramid Dehazing Network [[Code](https://github.com/hezhangsprinter/DCPDN), [Paper](https://arxiv.org/abs/1803.08396)]
     - Zhang, He, and Vishal M. Patel. "Densely connected pyramid dehazing network." The IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2018.
 - Multi-band Enhancement [[Code](https://github.com/irapkaist/multi-band-enhancement), [Paper](http://irap.kaist.ac.kr/index.php/Main/Publication?action=bibentry&bibfile=ref.bib&bibref=ycho-2018-ral)]
@@ -56,8 +58,6 @@ This repository is the collection of dehazing methods. Among various dehazing al
     - Fattal, Raanan. "Single image dehazing." ACM transactions on graphics (TOG) 27.3 (2008): 72.
 
 ### Dehazing using multi-images
-- Color Cast Dependent Image Dehazing [[Code](https://github.com/m14roy/CC_AA_NCB_Img_Dehaze/tree/master/), [Paper](https://ieeexplore.ieee.org/document/9134933)]
-    - S. K. Dhara, M. Roy, D. Sen and P. K. Biswas, "Color Cast Dependent Image Dehazing via Adaptive Airlight Refinement and Non-linear Color Balancing," in IEEE Transactions on Circuits and Systems for Video Technology, doi: 10.1109/TCSVT.2020.3007850
 - Simultaneous Defogging and Stereo Reconstruction [[Code](http://www.lizhuwen.com/pages/Stereo%20in%20Fog.html), [Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Li_Simultaneous_Video_Defogging_2015_CVPR_paper.pdf)]
     - Li, Zhuwen, et al. "Simultaneous video defogging and stereo reconstruction." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015.
 - Stereo Reconstruction and Contrast Restoration [[Paper](https://link.springer.com/chapter/10.1007/978-3-642-37447-0_2)]
